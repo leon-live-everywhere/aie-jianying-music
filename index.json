@@ -1,7 +1,7 @@
 [
  {
   "no": 1,
-  "file": "songs/001_常用_快_轻松_185bpm_1m36s.mp3",
+  "file": "songs/001_舒缓_纯音乐_快_轻松_185bpm_1m36s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -10,11 +10,28 @@
   "last_used": "2026-08-27",
   "loud_db": -22.5,
   "bright_hz": 446,
-  "jianying_cache": "ae22bfe2b0642ce29a0086c07ae03038.mp3"
+  "jianying_cache": "ae22bfe2b0642ce29a0086c07ae03038.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Ambient music",
+   "Background music",
+   "Sad music",
+   "Soundtrack music",
+   "Tender music"
+  ],
+  "source": "常用"
  },
  {
   "no": 2,
-  "file": "songs/002_常用_快_轻松_185bpm_2m47s.mp3",
+  "file": "songs/002_古典_纯音乐_快_轻松_185bpm_2m47s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -23,11 +40,28 @@
   "last_used": "2026-08-06",
   "loud_db": -16.8,
   "bright_hz": 1070,
-  "jianying_cache": "101160c97668376550b448f616029652.mp3"
+  "jianying_cache": "101160c97668376550b448f616029652.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "伤感",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Violin, fiddle",
+   "Bowed string instrument",
+   "Sad music",
+   "String section",
+   "Cello",
+   "Wedding music"
+  ],
+  "source": "常用"
  },
  {
   "no": 3,
-  "file": "songs/003_常用_中_安静_108bpm_2m19s.mp3",
+  "file": "songs/003_舒缓_纯音乐_中_安静_108bpm_2m19s.mp3",
   "feel": "安静",
   "tempo": "中",
   "bpm": 108,
@@ -36,11 +70,27 @@
   "last_used": "2026-08-06",
   "loud_db": -17.7,
   "bright_hz": 857,
-  "jianying_cache": "49b524e3f90417f948f634c9ea9712ee.mp3"
+  "jianying_cache": "49b524e3f90417f948f634c9ea9712ee.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Piano",
+   "Sad music",
+   "Harp",
+   "Keyboard (musical)",
+   "Background music"
+  ],
+  "source": "常用"
  },
  {
   "no": 4,
-  "file": "songs/004_常用_慢_明亮_86bpm_1m00s.mp3",
+  "file": "songs/004_电子_纯音乐_慢_明亮_86bpm_1m00s.mp3",
   "feel": "明亮",
   "tempo": "慢",
   "bpm": 86,
@@ -49,11 +99,28 @@
   "last_used": "2026-06-14",
   "loud_db": -4.7,
   "bright_hz": 1646,
-  "jianying_cache": "3e9545b34be62134524c7b96b9b07095.mp3"
+  "jianying_cache": "3e9545b34be62134524c7b96b9b07095.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "动感",
+   "DJ",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Dance music",
+   "Electronic dance music",
+   "House music",
+   "Pop music",
+   "Electronic music",
+   "Exciting music"
+  ],
+  "source": "常用"
  },
  {
   "no": 5,
-  "file": "songs/005_常用_慢_明亮_86bpm_2m13s.mp3",
+  "file": "songs/005_轻快_纯音乐_慢_明亮_86bpm_2m13s.mp3",
   "feel": "明亮",
   "tempo": "慢",
   "bpm": 86,
@@ -62,11 +129,28 @@
   "last_used": "2026-06-11",
   "loud_db": -7.6,
   "bright_hz": 1481,
-  "jianying_cache": "74e249859fb7a6d6f5a478617705754a.mp3"
+  "jianying_cache": "74e249859fb7a6d6f5a478617705754a.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "VLOG",
+   "摇滚",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Exciting music",
+   "Soundtrack music",
+   "Electronic music",
+   "Video game music",
+   "Progressive rock",
+   "Sampler"
+  ],
+  "source": "常用"
  },
  {
   "no": 6,
-  "file": "songs/006_常用_快_轻松_185bpm_2m29s.mp3",
+  "file": "songs/006_VLOG_纯音乐_快_轻松_185bpm_2m29s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -75,11 +159,27 @@
   "last_used": "2026-04-24",
   "loud_db": -15.0,
   "bright_hz": 1074,
-  "jianying_cache": "5237354f07eab70c4ab3765a08462cf3.mp3"
+  "jianying_cache": "5237354f07eab70c4ab3765a08462cf3.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "古典",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Theme music",
+   "Background music",
+   "Video game music",
+   "Soundtrack music",
+   "Violin, fiddle",
+   "Bowed string instrument"
+  ],
+  "source": "常用"
  },
  {
   "no": 7,
-  "file": "songs/007_常用_慢_轻松_81bpm_0m36s.mp3",
+  "file": "songs/007_舒缓_纯音乐_慢_轻松_81bpm_0m36s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -88,11 +188,26 @@
   "last_used": "2026-03-24",
   "loud_db": -30.5,
   "bright_hz": 3086,
-  "jianying_cache": "de76ccc1c0f80ef3283ca868917f4c67.mp3"
+  "jianying_cache": "de76ccc1c0f80ef3283ca868917f4c67.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Tick",
+   "Tick-tock",
+   "Clock",
+   "Wood block",
+   "Synthesizer",
+   "Drum machine"
+  ],
+  "source": "常用"
  },
  {
   "no": 8,
-  "file": "songs/008_常用_中_轻松_108bpm_1m31s.mp3",
+  "file": "songs/008_轻快_纯音乐_中_轻松_108bpm_1m31s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 108,
@@ -101,11 +216,26 @@
   "last_used": "2026-02-23",
   "loud_db": -12.7,
   "bright_hz": 1073,
-  "jianying_cache": "8bbd01689d82a6031cf752ce85fef526.mp3"
+  "jianying_cache": "8bbd01689d82a6031cf752ce85fef526.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Jingle, tinkle",
+   "Wind instrument, woodwind instrument",
+   "Ding-dong",
+   "Ding",
+   "Harmonica",
+   "Music for children"
+  ],
+  "source": "常用"
  },
  {
   "no": 9,
-  "file": "songs/009_常用_快_有冲劲_129bpm_2m04s.mp3",
+  "file": "songs/009_动感_纯音乐_快_有冲劲_129bpm_2m04s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 129,
@@ -114,11 +244,27 @@
   "last_used": "2026-02-15",
   "loud_db": -9.0,
   "bright_hz": 1452,
-  "jianying_cache": "59b116fa2e1bf6288004e0389db41db6.mp3"
+  "jianying_cache": "59b116fa2e1bf6288004e0389db41db6.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "搞笑",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Flute",
+   "Funny music",
+   "Soundtrack music",
+   "Afrobeat",
+   "Happy music",
+   "Background music"
+  ],
+  "source": "常用"
  },
  {
   "no": 10,
-  "file": "songs/010_常用_中_轻松_99bpm_1m31s.mp3",
+  "file": "songs/010_可爱_纯音乐_中_轻松_99bpm_1m31s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 99,
@@ -127,11 +273,27 @@
   "last_used": "2026-02-13",
   "loud_db": -21.3,
   "bright_hz": 1391,
-  "jianying_cache": "df35b6ff615288135f223d11ba653029.mp3"
+  "jianying_cache": "df35b6ff615288135f223d11ba653029.mp3",
+  "category": "可爱",
+  "categories": [
+   "可爱",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Jingle, tinkle",
+   "Ding",
+   "Music for children",
+   "Ding-dong",
+   "Keyboard (musical)",
+   "Piano"
+  ],
+  "source": "常用"
  },
  {
   "no": 11,
-  "file": "songs/011_常用_慢_轻松_81bpm_2m12s.mp3",
+  "file": "songs/011_舒缓_纯音乐_慢_轻松_81bpm_2m12s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -140,11 +302,28 @@
   "last_used": "2026-02-13",
   "loud_db": -12.6,
   "bright_hz": 1058,
-  "jianying_cache": "8174fed52b0e77f6373e3eee27cf9968.mp3"
+  "jianying_cache": "8174fed52b0e77f6373e3eee27cf9968.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "可爱",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Piano",
+   "Keyboard (musical)",
+   "Vibraphone",
+   "Marimba, xylophone",
+   "Electric piano",
+   "Mallet percussion"
+  ],
+  "source": "常用"
  },
  {
   "no": 12,
-  "file": "songs/012_常用_中_明亮_96bpm_1m08s.mp3",
+  "file": "songs/012_爵士_纯音乐_中_明亮_96bpm_1m08s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 96,
@@ -153,11 +332,28 @@
   "last_used": "2025-12-05",
   "loud_db": -10.0,
   "bright_hz": 1050,
-  "jianying_cache": "604b5374f0de6f5b28fafb2e5873209b.mp3"
+  "jianying_cache": "604b5374f0de6f5b28fafb2e5873209b.mp3",
+  "category": "爵士",
+  "categories": [
+   "爵士",
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Piano",
+   "Keyboard (musical)",
+   "Saxophone",
+   "Jazz",
+   "Electric piano",
+   "Brass instrument"
+  ],
+  "source": "常用"
  },
  {
   "no": 13,
-  "file": "songs/013_常用_快_有冲劲_123bpm_1m14s.mp3",
+  "file": "songs/013_电子_纯音乐_快_有冲劲_123bpm_1m14s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 123,
@@ -166,11 +362,28 @@
   "last_used": "2025-11-28",
   "loud_db": -6.7,
   "bright_hz": 1370,
-  "jianying_cache": "474fd5f8339e1472fde424b22760e389.mp3"
+  "jianying_cache": "474fd5f8339e1472fde424b22760e389.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "动感",
+   "DJ",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "House music",
+   "Dance music",
+   "Drum and bass",
+   "Electronic music",
+   "Disco",
+   "Electronica"
+  ],
+  "source": "常用"
  },
  {
   "no": 14,
-  "file": "songs/014_常用_快_轻松_144bpm_3m54s.mp3",
+  "file": "songs/014_VLOG_纯音乐_快_轻松_144bpm_3m54s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 144,
@@ -179,11 +392,26 @@
   "last_used": "2025-11-27",
   "loud_db": -20.7,
   "bright_hz": 642,
-  "jianying_cache": "ccbfc7eb7580ec7eb2c246477ac334b8.mp3"
+  "jianying_cache": "ccbfc7eb7580ec7eb2c246477ac334b8.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Jingle, tinkle",
+   "Soundtrack music",
+   "Background music",
+   "Ding",
+   "Video game music",
+   "Orchestra"
+  ],
+  "source": "常用"
  },
  {
   "no": 15,
-  "file": "songs/015_常用_快_有冲劲_161bpm_1m40s.mp3",
+  "file": "songs/015_动感_纯音乐_快_有冲劲_161bpm_1m40s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 161,
@@ -192,11 +420,27 @@
   "last_used": "2025-11-20",
   "loud_db": -8.5,
   "bright_hz": 1237,
-  "jianying_cache": "734cdac0b86faaa3dd906aa283962a81.mp3"
+  "jianying_cache": "734cdac0b86faaa3dd906aa283962a81.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "搞笑",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Soundtrack music",
+   "Video game music",
+   "Funny music",
+   "Exciting music",
+   "Background music",
+   "Dance music"
+  ],
+  "source": "常用"
  },
  {
   "no": 16,
-  "file": "songs/016_常用_慢_轻松_89bpm_3m53s.mp3",
+  "file": "songs/016_R&B_纯音乐_慢_轻松_89bpm_3m53s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 89,
@@ -205,11 +449,28 @@
   "last_used": "2025-11-20",
   "loud_db": -12.9,
   "bright_hz": 1747,
-  "jianying_cache": "99a57829a2b2eb725409da5ba1ec2883.mp3"
+  "jianying_cache": "99a57829a2b2eb725409da5ba1ec2883.mp3",
+  "category": "R&B",
+  "categories": [
+   "R&B",
+   "轻快",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Rhythm and blues",
+   "Soul music",
+   "Ringtone",
+   "Hip hop music",
+   "Reggae",
+   "Singing"
+  ],
+  "source": "常用"
  },
  {
   "no": 17,
-  "file": "songs/017_常用_中_轻松_99bpm_1m18s.mp3",
+  "file": "songs/017_搞笑_纯音乐_中_轻松_99bpm_1m18s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 99,
@@ -218,11 +479,26 @@
   "last_used": "2025-11-20",
   "loud_db": -13.0,
   "bright_hz": 1069,
-  "jianying_cache": "78e27919efa5a1a421d061365ca8b0b0.mp3"
+  "jianying_cache": "78e27919efa5a1a421d061365ca8b0b0.mp3",
+  "category": "搞笑",
+  "categories": [
+   "搞笑",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Squeak",
+   "Flute",
+   "Wind instrument, woodwind instrument",
+   "Clarinet",
+   "Speech",
+   "Inside, small room"
+  ],
+  "source": "常用"
  },
  {
   "no": 18,
-  "file": "songs/018_常用_快_明亮_136bpm_2m21s.mp3",
+  "file": "songs/018_电子_纯音乐_快_明亮_136bpm_2m21s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 136,
@@ -231,11 +507,28 @@
   "last_used": "2025-11-20",
   "loud_db": -9.7,
   "bright_hz": 762,
-  "jianying_cache": "e61b6ad24178c8c1e30b36535396b2b3.mp3"
+  "jianying_cache": "e61b6ad24178c8c1e30b36535396b2b3.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "DJ",
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electronica",
+   "Electronic music",
+   "Drum machine",
+   "House music",
+   "Sampler",
+   "Techno"
+  ],
+  "source": "常用"
  },
  {
   "no": 19,
-  "file": "songs/019_常用_快_轻松_185bpm_1m46s.mp3",
+  "file": "songs/019_搞笑_纯音乐_快_轻松_185bpm_1m46s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -244,11 +537,27 @@
   "last_used": "2025-11-20",
   "loud_db": -16.5,
   "bright_hz": 1061,
-  "jianying_cache": "5e24d342780fc0c12122c9863a305f72.mp3"
+  "jianying_cache": "5e24d342780fc0c12122c9863a305f72.mp3",
+  "category": "搞笑",
+  "categories": [
+   "搞笑",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Accordion",
+   "Piano",
+   "Funny music",
+   "Keyboard (musical)",
+   "Soundtrack music",
+   "Video game music"
+  ],
+  "source": "常用"
  },
  {
   "no": 20,
-  "file": "songs/020_常用_中_安静_117bpm_2m32s.mp3",
+  "file": "songs/020_舒缓_纯音乐_中_安静_117bpm_2m32s.mp3",
   "feel": "安静",
   "tempo": "中",
   "bpm": 117,
@@ -257,11 +566,26 @@
   "last_used": "2025-11-04",
   "loud_db": -14.9,
   "bright_hz": 612,
-  "jianying_cache": "0d953a14e442bae981fad536a3ac702c.mp3"
+  "jianying_cache": "0d953a14e442bae981fad536a3ac702c.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Piano",
+   "Electric piano",
+   "Keyboard (musical)",
+   "New-age music",
+   "Tender music",
+   "Sad music"
+  ],
+  "source": "常用"
  },
  {
   "no": 21,
-  "file": "songs/021_常用_快_轻松_129bpm_0m36s.mp3",
+  "file": "songs/021_轻快_纯音乐_快_轻松_129bpm_0m36s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -270,11 +594,26 @@
   "last_used": "2025-08-26",
   "loud_db": -23.4,
   "bright_hz": 1176,
-  "jianying_cache": "d79e5004115af0f8ae3fb03980c91645.mp3"
+  "jianying_cache": "d79e5004115af0f8ae3fb03980c91645.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Trombone",
+   "Brass instrument",
+   "Foghorn",
+   "French horn",
+   "Trumpet",
+   "Keyboard (musical)"
+  ],
+  "source": "常用"
  },
  {
   "no": 22,
-  "file": "songs/022_常用_中_轻松_117bpm_0m33s.mp3",
+  "file": "songs/022_搞笑_纯音乐_中_轻松_117bpm_0m33s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -283,11 +622,26 @@
   "last_used": "2025-08-10",
   "loud_db": -19.6,
   "bright_hz": 1790,
-  "jianying_cache": "de351a3fdd4f2733e9ca7fff0833234a.mp3"
+  "jianying_cache": "de351a3fdd4f2733e9ca7fff0833234a.mp3",
+  "category": "搞笑",
+  "categories": [
+   "搞笑",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Plop",
+   "Boing",
+   "Sound effect",
+   "Whack, thwack",
+   "Scratching (performance technique)",
+   "Speech"
+  ],
+  "source": "常用"
  },
  {
   "no": 23,
-  "file": "songs/023_常用_快_轻松_185bpm_3m50s.mp3",
+  "file": "songs/023_爵士_纯音乐_快_轻松_185bpm_3m50s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -296,11 +650,27 @@
   "last_used": "2025-07-17",
   "loud_db": -15.5,
   "bright_hz": 1144,
-  "jianying_cache": "20e32bd4dec01012b364b998da41ded6.mp3"
+  "jianying_cache": "20e32bd4dec01012b364b998da41ded6.mp3",
+  "category": "爵士",
+  "categories": [
+   "爵士",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Drum kit",
+   "Drum",
+   "Bass drum",
+   "Percussion",
+   "Snare drum",
+   "Rimshot"
+  ],
+  "source": "常用"
  },
  {
   "no": 24,
-  "file": "songs/024_常用_慢_轻松_81bpm_0m38s.mp3",
+  "file": "songs/024_舒缓_纯音乐_慢_轻松_81bpm_0m38s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -309,11 +679,26 @@
   "last_used": "2025-07-17",
   "loud_db": -33.4,
   "bright_hz": 2220,
-  "jianying_cache": "b941931286f55aa23cbdd30386ccb351.mp3"
+  "jianying_cache": "b941931286f55aa23cbdd30386ccb351.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Typing",
+   "Computer keyboard",
+   "Typewriter",
+   "Rattle",
+   "Speech",
+   "Inside, small room"
+  ],
+  "source": "常用"
  },
  {
   "no": 25,
-  "file": "songs/025_常用_慢_轻松_89bpm_2m10s.mp3",
+  "file": "songs/025_VLOG_纯音乐_慢_轻松_89bpm_2m10s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 89,
@@ -322,11 +707,28 @@
   "last_used": "2025-06-27",
   "loud_db": -12.0,
   "bright_hz": 1440,
-  "jianying_cache": "2147e107da193a45cb4bad74afc29702.mp3"
+  "jianying_cache": "2147e107da193a45cb4bad74afc29702.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "轻快",
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Happy music",
+   "Jingle, tinkle",
+   "Soul music",
+   "Background music",
+   "Music of Africa",
+   "Funk"
+  ],
+  "source": "常用"
  },
  {
   "no": 26,
-  "file": "songs/026_常用_中_有冲劲_96bpm_1m26s.mp3",
+  "file": "songs/026_动感_纯音乐_中_有冲劲_96bpm_1m26s.mp3",
   "feel": "有冲劲",
   "tempo": "中",
   "bpm": 96,
@@ -335,11 +737,28 @@
   "last_used": "2025-06-16",
   "loud_db": -8.3,
   "bright_hz": 1530,
-  "jianying_cache": "44c1309870138da166206c88245c8009.mp3"
+  "jianying_cache": "44c1309870138da166206c88245c8009.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "电子",
+   "流行",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Funk",
+   "Drum and bass",
+   "Disco",
+   "Hip hop music",
+   "Dance music",
+   "Pop music"
+  ],
+  "source": "常用"
  },
  {
   "no": 27,
-  "file": "songs/027_常用_中_轻松_117bpm_1m55s.mp3",
+  "file": "songs/027_古典_纯音乐_中_轻松_117bpm_1m55s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -348,11 +767,28 @@
   "last_used": "2025-05-30",
   "loud_db": -17.5,
   "bright_hz": 975,
-  "jianying_cache": "400014d68b6286f50a6eea82a697ecd8.mp3"
+  "jianying_cache": "400014d68b6286f50a6eea82a697ecd8.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "伤感",
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Cello",
+   "Sad music",
+   "Piano",
+   "Bowed string instrument",
+   "Double bass",
+   "Electric piano"
+  ],
+  "source": "常用"
  },
  {
   "no": 28,
-  "file": "songs/028_最近_中_有冲劲_108bpm_1m44s.mp3",
+  "file": "songs/028_动感_纯音乐_中_有冲劲_108bpm_1m44s.mp3",
   "feel": "有冲劲",
   "tempo": "中",
   "bpm": 108,
@@ -361,11 +797,27 @@
   "last_used": "2026-10-26",
   "loud_db": -9.0,
   "bright_hz": 1399,
-  "jianying_cache": "1d841fc7b5912fbc654b7e7dca659070.mp3"
+  "jianying_cache": "1d841fc7b5912fbc654b7e7dca659070.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "爵士",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Single-lens reflex camera",
+   "Reggae",
+   "Funk",
+   "Disco",
+   "Dance music",
+   "Ska"
+  ],
+  "source": "最近"
  },
  {
   "no": 29,
-  "file": "songs/029_最近_快_有冲劲_185bpm_2m17s.mp3",
+  "file": "songs/029_电子_纯音乐_快_有冲劲_185bpm_2m17s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 185,
@@ -374,11 +826,28 @@
   "last_used": "2026-10-26",
   "loud_db": -6.3,
   "bright_hz": 1373,
-  "jianying_cache": "83ba294180e9b598a404a135a8089925.mp3"
+  "jianying_cache": "83ba294180e9b598a404a135a8089925.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "动感",
+   "DJ",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electronic music",
+   "Electronica",
+   "Techno",
+   "House music",
+   "Disco",
+   "Sampler"
+  ],
+  "source": "最近"
  },
  {
   "no": 30,
-  "file": "songs/030_最近_中_轻松_117bpm_3m40s.mp3",
+  "file": "songs/030_轻快_有人声_中_轻松_117bpm_3m40s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -387,11 +856,27 @@
   "last_used": "2026-10-21",
   "loud_db": -10.9,
   "bright_hz": 1135,
-  "jianying_cache": "9e054392158b3c4a27b8532764e56266.mp3"
+  "jianying_cache": "9e054392158b3c4a27b8532764e56266.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "流行",
+   "国风"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Pop music",
+   "Singing",
+   "Music of Asia",
+   "Independent music",
+   "Rhythm and blues",
+   "Christian music"
+  ],
+  "source": "最近"
  },
  {
   "no": 31,
-  "file": "songs/031_最近_快_轻松_129bpm_2m20s.mp3",
+  "file": "songs/031_轻快_纯音乐_快_轻松_129bpm_2m20s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -400,11 +885,26 @@
   "last_used": "2026-10-19",
   "loud_db": -13.4,
   "bright_hz": 391,
-  "jianying_cache": "dd6ff969e0b119fba2af66b0e9d710f8.mp3"
+  "jianying_cache": "dd6ff969e0b119fba2af66b0e9d710f8.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Guitar",
+   "Plucked string instrument",
+   "Harmonic",
+   "Steel guitar, slide guitar",
+   "Ambient music",
+   "Electric guitar"
+  ],
+  "source": "最近"
  },
  {
   "no": 32,
-  "file": "songs/032_最近_慢_安静_83bpm_1m35s.mp3",
+  "file": "songs/032_舒缓_纯音乐_慢_安静_83bpm_1m35s.mp3",
   "feel": "安静",
   "tempo": "慢",
   "bpm": 83,
@@ -413,11 +913,27 @@
   "last_used": "2026-10-19",
   "loud_db": -10.9,
   "bright_hz": 729,
-  "jianying_cache": "2f2c98aa39590350edad99acc9983011.mp3"
+  "jianying_cache": "2f2c98aa39590350edad99acc9983011.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Background music",
+   "Tender music",
+   "Piano",
+   "Sad music",
+   "Electric piano"
+  ],
+  "source": "最近"
  },
  {
   "no": 33,
-  "file": "songs/033_最近_快_轻松_129bpm_1m00s.mp3",
+  "file": "songs/033_舒缓_纯音乐_快_轻松_129bpm_1m00s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -426,11 +942,28 @@
   "last_used": "2026-10-19",
   "loud_db": -21.4,
   "bright_hz": 636,
-  "jianying_cache": "6ac09218d1490a0c0f7faa8c2c31a1fc.mp3"
+  "jianying_cache": "6ac09218d1490a0c0f7faa8c2c31a1fc.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electric piano",
+   "Piano",
+   "Keyboard (musical)",
+   "New-age music",
+   "Sad music",
+   "Tender music"
+  ],
+  "source": "最近"
  },
  {
   "no": 34,
-  "file": "songs/034_最近_快_轻松_172bpm_2m10s.mp3",
+  "file": "songs/034_舒缓_纯音乐_快_轻松_172bpm_2m10s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 172,
@@ -439,11 +972,27 @@
   "last_used": "2026-10-19",
   "loud_db": -16.4,
   "bright_hz": 677,
-  "jianying_cache": "b574fe3473580c8f0fb35a2c38e4895e.mp3"
+  "jianying_cache": "b574fe3473580c8f0fb35a2c38e4895e.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Piano",
+   "Keyboard (musical)",
+   "Electric piano",
+   "Tender music",
+   "New-age music",
+   "Lullaby"
+  ],
+  "source": "最近"
  },
  {
   "no": 35,
-  "file": "songs/035_最近_快_轻松_144bpm_3m58s.mp3",
+  "file": "songs/035_舒缓_纯音乐_快_轻松_144bpm_3m58s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 144,
@@ -452,11 +1001,28 @@
   "last_used": "2026-10-19",
   "loud_db": -29.3,
   "bright_hz": 550,
-  "jianying_cache": "a9b1569720b2f9d9221f854edfd01f91.mp3"
+  "jianying_cache": "a9b1569720b2f9d9221f854edfd01f91.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "伤感",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electric piano",
+   "Piano",
+   "Keyboard (musical)",
+   "New-age music",
+   "Sad music",
+   "Tender music"
+  ],
+  "source": "最近"
  },
  {
   "no": 36,
-  "file": "songs/036_最近_快_轻松_172bpm_4m19s.mp3",
+  "file": "songs/036_轻快_纯音乐_快_轻松_172bpm_4m19s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 172,
@@ -465,11 +1031,26 @@
   "last_used": "2026-10-19",
   "loud_db": -14.4,
   "bright_hz": 477,
-  "jianying_cache": "af8bb0bcde3c11ebda0a5ff5473ee62b.mp3"
+  "jianying_cache": "af8bb0bcde3c11ebda0a5ff5473ee62b.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Harp",
+   "Pizzicato",
+   "New-age music",
+   "Plucked string instrument",
+   "Tender music",
+   "Electric piano"
+  ],
+  "source": "最近"
  },
  {
   "no": 37,
-  "file": "songs/037_最近_快_轻松_123bpm_5m20s.mp3",
+  "file": "songs/037_舒缓_纯音乐_快_轻松_123bpm_5m20s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 123,
@@ -478,11 +1059,28 @@
   "last_used": "2026-10-19",
   "loud_db": -26.0,
   "bright_hz": 551,
-  "jianying_cache": "1d6b70bd7c28db1c0cabf98915ceb0e9.mp3"
+  "jianying_cache": "1d6b70bd7c28db1c0cabf98915ceb0e9.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electric piano",
+   "Piano",
+   "Keyboard (musical)",
+   "New-age music",
+   "Sad music",
+   "Tender music"
+  ],
+  "source": "最近"
  },
  {
   "no": 38,
-  "file": "songs/038_最近_快_明亮_123bpm_1m00s.mp3",
+  "file": "songs/038_古典_纯音乐_快_明亮_123bpm_1m00s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 123,
@@ -491,11 +1089,26 @@
   "last_used": "2026-10-19",
   "loud_db": -21.7,
   "bright_hz": 1401,
-  "jianying_cache": "0fc0f9db1fa6c1e9420ce2a87a4fc2db.mp3"
+  "jianying_cache": "0fc0f9db1fa6c1e9420ce2a87a4fc2db.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Violin, fiddle",
+   "Cello",
+   "Bowed string instrument",
+   "String section",
+   "Double bass",
+   "Orchestra"
+  ],
+  "source": "最近"
  },
  {
   "no": 39,
-  "file": "songs/039_最近_中_轻松_108bpm_4m24s.mp3",
+  "file": "songs/039_古典_纯音乐_中_轻松_108bpm_4m24s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 108,
@@ -504,11 +1117,26 @@
   "last_used": "2026-10-19",
   "loud_db": -17.6,
   "bright_hz": 1705,
-  "jianying_cache": "35c85e72a5051412073458d08e5ed0f6.mp3"
+  "jianying_cache": "35c85e72a5051412073458d08e5ed0f6.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Violin, fiddle",
+   "Bowed string instrument",
+   "Classical music",
+   "Piano",
+   "Pizzicato",
+   "Cello"
+  ],
+  "source": "最近"
  },
  {
   "no": 40,
-  "file": "songs/040_最近_快_轻松_185bpm_1m49s.mp3",
+  "file": "songs/040_舒缓_纯音乐_快_轻松_185bpm_1m49s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -517,11 +1145,28 @@
   "last_used": "2026-10-19",
   "loud_db": -16.5,
   "bright_hz": 727,
-  "jianying_cache": "1f3775352d92fbaee9cbf38ec93f2944.mp3"
+  "jianying_cache": "1f3775352d92fbaee9cbf38ec93f2944.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Background music",
+   "New-age music",
+   "Sad music",
+   "Tender music",
+   "Piano",
+   "Keyboard (musical)"
+  ],
+  "source": "最近"
  },
  {
   "no": 41,
-  "file": "songs/041_最近_快_轻松_129bpm_1m34s.mp3",
+  "file": "songs/041_舒缓_纯音乐_快_轻松_129bpm_1m34s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -530,11 +1175,28 @@
   "last_used": "2026-10-19",
   "loud_db": -11.5,
   "bright_hz": 865,
-  "jianying_cache": "674ed6ce93e5c7d7602628c1335d4720.mp3"
+  "jianying_cache": "674ed6ce93e5c7d7602628c1335d4720.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Background music",
+   "New-age music",
+   "Sad music",
+   "Tender music",
+   "Pizzicato",
+   "Zither"
+  ],
+  "source": "最近"
  },
  {
   "no": 42,
-  "file": "songs/042_最近_快_轻松_161bpm_1m00s.mp3",
+  "file": "songs/042_古典_纯音乐_快_轻松_161bpm_1m00s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 161,
@@ -543,11 +1205,26 @@
   "last_used": "2026-10-19",
   "loud_db": -13.7,
   "bright_hz": 838,
-  "jianying_cache": "3ae3102e429cac4e8e30c1db8d52eadf.mp3"
+  "jianying_cache": "3ae3102e429cac4e8e30c1db8d52eadf.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Cello",
+   "Double bass",
+   "Bowed string instrument",
+   "String section",
+   "Classical music",
+   "Violin, fiddle"
+  ],
+  "source": "最近"
  },
  {
   "no": 43,
-  "file": "songs/043_最近_快_轻松_129bpm_3m09s.mp3",
+  "file": "songs/043_VLOG_纯音乐_快_轻松_129bpm_3m09s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -556,11 +1233,27 @@
   "last_used": "2026-10-19",
   "loud_db": -13.5,
   "bright_hz": 804,
-  "jianying_cache": "4bf3b8202a878c448b49fae0b7b4cd72.mp3"
+  "jianying_cache": "4bf3b8202a878c448b49fae0b7b4cd72.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Flute",
+   "Wind instrument, woodwind instrument",
+   "New-age music",
+   "Tender music",
+   "Background music",
+   "Traditional music"
+  ],
+  "source": "最近"
  },
  {
   "no": 44,
-  "file": "songs/044_最近_快_轻松_136bpm_2m28s.mp3",
+  "file": "songs/044_VLOG_纯音乐_快_轻松_136bpm_2m28s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 136,
@@ -569,11 +1262,28 @@
   "last_used": "2026-10-19",
   "loud_db": -12.3,
   "bright_hz": 710,
-  "jianying_cache": "1256a7b9563c83710f5245d4847977c8.mp3"
+  "jianying_cache": "1256a7b9563c83710f5245d4847977c8.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "轻快",
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Ringtone",
+   "Keyboard (musical)",
+   "Piano",
+   "Electric piano",
+   "Rhythm and blues",
+   "Synthesizer"
+  ],
+  "source": "最近"
  },
  {
   "no": 45,
-  "file": "songs/045_最近_中_轻松_117bpm_1m32s.mp3",
+  "file": "songs/045_电子_纯音乐_中_轻松_117bpm_1m32s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -582,11 +1292,28 @@
   "last_used": "2026-10-19",
   "loud_db": -15.3,
   "bright_hz": 1411,
-  "jianying_cache": "7ae61c3b9b75f42dd339b18208553261.mp3"
+  "jianying_cache": "7ae61c3b9b75f42dd339b18208553261.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "DJ",
+   "流行",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Dance music",
+   "House music",
+   "Disco",
+   "Electronic music",
+   "Electronic dance music",
+   "Electronica"
+  ],
+  "source": "最近"
  },
  {
   "no": 46,
-  "file": "songs/046_最近_快_明亮_123bpm_0m52s.mp3",
+  "file": "songs/046_摇滚_纯音乐_快_明亮_123bpm_0m52s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 123,
@@ -595,11 +1322,28 @@
   "last_used": "2026-10-19",
   "loud_db": -10.8,
   "bright_hz": 1074,
-  "jianying_cache": "a94b42867a3c5974b52070ee40241e69.mp3"
+  "jianying_cache": "a94b42867a3c5974b52070ee40241e69.mp3",
+  "category": "摇滚",
+  "categories": [
+   "摇滚",
+   "轻快",
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Independent music",
+   "Progressive rock",
+   "Soul music",
+   "Guitar",
+   "Singing",
+   "Psychedelic rock"
+  ],
+  "source": "最近"
  },
  {
   "no": 47,
-  "file": "songs/047_最近_中_轻松_117bpm_3m50s.mp3",
+  "file": "songs/047_轻快_有人声_中_轻松_117bpm_3m50s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -608,11 +1352,25 @@
   "last_used": "2026-10-19",
   "loud_db": -23.5,
   "bright_hz": 1230,
-  "jianying_cache": "8c0649d8048a21e6a2ad6644b6146332.mp3"
+  "jianying_cache": "8c0649d8048a21e6a2ad6644b6146332.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Singing",
+   "Soul music",
+   "Speech",
+   "Rhythm and blues",
+   "Funk",
+   "Guitar"
+  ],
+  "source": "最近"
  },
  {
   "no": 48,
-  "file": "songs/048_最近_慢_轻松_81bpm_0m52s.mp3",
+  "file": "songs/048_舒缓_纯音乐_慢_轻松_81bpm_0m52s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -621,11 +1379,27 @@
   "last_used": "2026-10-19",
   "loud_db": -5.9,
   "bright_hz": 836,
-  "jianying_cache": "121fc95eb0b39500da60e0fd5390371f.mp3"
+  "jianying_cache": "121fc95eb0b39500da60e0fd5390371f.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "电子",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Speech",
+   "Ambient music",
+   "Synthesizer",
+   "Electronic music",
+   "Afrobeat",
+   "Reggae"
+  ],
+  "source": "最近"
  },
  {
   "no": 49,
-  "file": "songs/049_最近_慢_轻松_83bpm_1m13s.mp3",
+  "file": "songs/049_爵士_纯音乐_慢_轻松_83bpm_1m13s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 83,
@@ -634,11 +1408,27 @@
   "last_used": "2026-10-19",
   "loud_db": -8.2,
   "bright_hz": 1102,
-  "jianying_cache": "96f673e070138cb5a320e7e84089e404.mp3"
+  "jianying_cache": "96f673e070138cb5a320e7e84089e404.mp3",
+  "category": "爵士",
+  "categories": [
+   "爵士",
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Ska",
+   "Swing music",
+   "Funk",
+   "Reggae",
+   "Soul music",
+   "Funny music"
+  ],
+  "source": "最近"
  },
  {
   "no": 50,
-  "file": "songs/050_最近_中_明亮_108bpm_2m24s.mp3",
+  "file": "songs/050_爵士_纯音乐_中_明亮_108bpm_2m24s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 108,
@@ -647,11 +1437,28 @@
   "last_used": "2026-10-19",
   "loud_db": -11.1,
   "bright_hz": 1401,
-  "jianying_cache": "cd41dc673c246f7fb9ee23e6fda2df63.mp3"
+  "jianying_cache": "cd41dc673c246f7fb9ee23e6fda2df63.mp3",
+  "category": "爵士",
+  "categories": [
+   "爵士",
+   "轻快",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Funk",
+   "Guitar",
+   "Plucked string instrument",
+   "Bass guitar",
+   "Happy music",
+   "Exciting music"
+  ],
+  "source": "最近"
  },
  {
   "no": 51,
-  "file": "songs/051_最近_中_明亮_96bpm_0m39s.mp3",
+  "file": "songs/051_R&B_纯音乐_中_明亮_96bpm_0m39s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 96,
@@ -660,11 +1467,28 @@
   "last_used": "2026-10-18",
   "loud_db": -7.7,
   "bright_hz": 1233,
-  "jianying_cache": "e39556a6bdbcac946eaf340cf8b0101e.mp3"
+  "jianying_cache": "e39556a6bdbcac946eaf340cf8b0101e.mp3",
+  "category": "R&B",
+  "categories": [
+   "R&B",
+   "轻快",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Rhythm and blues",
+   "Pop music",
+   "Independent music",
+   "Singing",
+   "Hip hop music",
+   "Happy music"
+  ],
+  "source": "最近"
  },
  {
   "no": 52,
-  "file": "songs/052_最近_快_有冲劲_129bpm_1m57s.mp3",
+  "file": "songs/052_DJ_纯音乐_快_有冲劲_129bpm_1m57s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 129,
@@ -673,11 +1497,28 @@
   "last_used": "2026-10-18",
   "loud_db": -4.5,
   "bright_hz": 1575,
-  "jianying_cache": "4961f9fc6754929666b689c0189cad6d.mp3"
+  "jianying_cache": "4961f9fc6754929666b689c0189cad6d.mp3",
+  "category": "DJ",
+  "categories": [
+   "DJ",
+   "动感",
+   "电子",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Dance music",
+   "Electronic music",
+   "House music",
+   "Disco",
+   "Electronic dance music",
+   "Techno"
+  ],
+  "source": "最近"
  },
  {
   "no": 53,
-  "file": "songs/053_最近_慢_轻松_78bpm_3m50s.mp3",
+  "file": "songs/053_古典_纯音乐_慢_轻松_78bpm_3m50s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 78,
@@ -686,11 +1527,28 @@
   "last_used": "2026-10-18",
   "loud_db": -14.2,
   "bright_hz": 1144,
-  "jianying_cache": "71832094df198ab0f2516ae6d6a2c65b.mp3"
+  "jianying_cache": "71832094df198ab0f2516ae6d6a2c65b.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Violin, fiddle",
+   "Drum",
+   "Drum kit",
+   "Bowed string instrument",
+   "Wedding music",
+   "Bass drum"
+  ],
+  "source": "最近"
  },
  {
   "no": 54,
-  "file": "songs/054_最近_慢_轻松_81bpm_2m41s.mp3",
+  "file": "songs/054_R&B_纯音乐_慢_轻松_81bpm_2m41s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -699,11 +1557,28 @@
   "last_used": "2026-10-18",
   "loud_db": -7.7,
   "bright_hz": 1114,
-  "jianying_cache": "e3bc81d25a0592a15fd836a202d14a1d.mp3"
+  "jianying_cache": "e3bc81d25a0592a15fd836a202d14a1d.mp3",
+  "category": "R&B",
+  "categories": [
+   "R&B",
+   "轻快",
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Rhythm and blues",
+   "Hip hop music",
+   "Soul music",
+   "Pop music",
+   "Tender music",
+   "Electronic music"
+  ],
+  "source": "最近"
  },
  {
   "no": 55,
-  "file": "songs/055_最近_中_明亮_117bpm_1m18s.mp3",
+  "file": "songs/055_说唱_有人声_中_明亮_117bpm_1m18s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 117,
@@ -712,11 +1587,27 @@
   "last_used": "2026-10-18",
   "loud_db": -8.4,
   "bright_hz": 1276,
-  "jianying_cache": "aab82f28279057d3fe96e249e03698a6.mp3"
+  "jianying_cache": "aab82f28279057d3fe96e249e03698a6.mp3",
+  "category": "说唱",
+  "categories": [
+   "说唱",
+   "轻快",
+   "VLOG"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Singing",
+   "Hip hop music",
+   "Rapping",
+   "Pop music",
+   "Christmas music",
+   "Music of Asia"
+  ],
+  "source": "最近"
  },
  {
   "no": 56,
-  "file": "songs/056_最近_快_有冲劲_129bpm_1m51s.mp3",
+  "file": "songs/056_动感_纯音乐_快_有冲劲_129bpm_1m51s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 129,
@@ -725,11 +1616,28 @@
   "last_used": "2026-10-18",
   "loud_db": -4.8,
   "bright_hz": 1171,
-  "jianying_cache": "a5c971165463e3086b92718982492ac6.mp3"
+  "jianying_cache": "a5c971165463e3086b92718982492ac6.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "电子",
+   "DJ",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Dance music",
+   "Electronic music",
+   "House music",
+   "Techno",
+   "Disco",
+   "Electronica"
+  ],
+  "source": "最近"
  },
  {
   "no": 57,
-  "file": "songs/057_最近_快_有冲劲_129bpm_2m58s.mp3",
+  "file": "songs/057_动感_纯音乐_快_有冲劲_129bpm_2m58s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 129,
@@ -738,11 +1646,28 @@
   "last_used": "2026-10-18",
   "loud_db": -6.4,
   "bright_hz": 1532,
-  "jianying_cache": "46283cd1f0987d782ffd94f41bd48de7.mp3"
+  "jianying_cache": "46283cd1f0987d782ffd94f41bd48de7.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "电子",
+   "DJ",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Dance music",
+   "House music",
+   "Disco",
+   "Electronic music",
+   "Drum and bass",
+   "Exciting music"
+  ],
+  "source": "最近"
  },
  {
   "no": 58,
-  "file": "songs/058_最近_快_有冲劲_161bpm_4m22s.mp3",
+  "file": "songs/058_说唱_有人声_快_有冲劲_161bpm_4m22s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 161,
@@ -751,11 +1676,26 @@
   "last_used": "2026-10-18",
   "loud_db": -8.2,
   "bright_hz": 1536,
-  "jianying_cache": "d78fd1e22e6c15fbe9268c540dee3f5e.mp3"
+  "jianying_cache": "d78fd1e22e6c15fbe9268c540dee3f5e.mp3",
+  "category": "说唱",
+  "categories": [
+   "说唱",
+   "动感"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Rapping",
+   "Hip hop music",
+   "Rhythm and blues",
+   "Singing",
+   "Afrobeat",
+   "Music of Africa"
+  ],
+  "source": "最近"
  },
  {
   "no": 59,
-  "file": "songs/059_最近_中_明亮_117bpm_0m38s.mp3",
+  "file": "songs/059_摇滚_纯音乐_中_明亮_117bpm_0m38s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 117,
@@ -764,11 +1704,26 @@
   "last_used": "2026-10-18",
   "loud_db": -13.4,
   "bright_hz": 1504,
-  "jianying_cache": "7fbe9b594863b008c0f117f5c6864acb.mp3"
+  "jianying_cache": "7fbe9b594863b008c0f117f5c6864acb.mp3",
+  "category": "摇滚",
+  "categories": [
+   "摇滚",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Timpani",
+   "Heavy metal",
+   "Punk rock",
+   "Angry music",
+   "Rock music",
+   "Flute"
+  ],
+  "source": "最近"
  },
  {
   "no": 60,
-  "file": "songs/060_最近_中_轻松_92bpm_0m32s.mp3",
+  "file": "songs/060_舒缓_纯音乐_中_轻松_92bpm_0m32s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 92,
@@ -777,11 +1732,26 @@
   "last_used": "2026-10-18",
   "loud_db": -18.4,
   "bright_hz": 1476,
-  "jianying_cache": "7a6f6518bab4246a6053b510fe7f2809.mp3"
+  "jianying_cache": "7a6f6518bab4246a6053b510fe7f2809.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Buzzer",
+   "Alarm",
+   "Fire alarm",
+   "Smoke detector, smoke alarm",
+   "Sound effect",
+   "Inside, small room"
+  ],
+  "source": "最近"
  },
  {
   "no": 61,
-  "file": "songs/061_最近_中_有冲劲_96bpm_3m19s.mp3",
+  "file": "songs/061_动感_有人声_中_有冲劲_96bpm_3m19s.mp3",
   "feel": "有冲劲",
   "tempo": "中",
   "bpm": 96,
@@ -790,11 +1760,27 @@
   "last_used": "2026-10-18",
   "loud_db": -8.1,
   "bright_hz": 1553,
-  "jianying_cache": "4f899fc8daef13d8098d1d9ab11cd1dd.mp3"
+  "jianying_cache": "4f899fc8daef13d8098d1d9ab11cd1dd.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "流行",
+   "电子"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Pop music",
+   "Singing",
+   "Dance music",
+   "Rhythm and blues",
+   "Electronic music",
+   "Music of Asia"
+  ],
+  "source": "最近"
  },
  {
   "no": 62,
-  "file": "songs/062_最近_快_轻松_129bpm_0m30s.mp3",
+  "file": "songs/062_舒缓_纯音乐_快_轻松_129bpm_0m30s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -803,11 +1789,26 @@
   "last_used": "2026-10-18",
   "loud_db": -19.0,
   "bright_hz": 1055,
-  "jianying_cache": "86b8e5b87afca91e4dda16b3b2554122.mp3"
+  "jianying_cache": "86b8e5b87afca91e4dda16b3b2554122.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Lullaby",
+   "Music for children",
+   "Tender music",
+   "Sad music",
+   "Singing",
+   "New-age music"
+  ],
+  "source": "最近"
  },
  {
   "no": 63,
-  "file": "songs/063_最近_快_明亮_123bpm_2m44s.mp3",
+  "file": "songs/063_R&B_纯音乐_快_明亮_123bpm_2m44s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 123,
@@ -816,11 +1817,28 @@
   "last_used": "2026-10-18",
   "loud_db": -10.8,
   "bright_hz": 932,
-  "jianying_cache": "cc098175990282751dd71fb98f84cc01.mp3"
+  "jianying_cache": "cc098175990282751dd71fb98f84cc01.mp3",
+  "category": "R&B",
+  "categories": [
+   "R&B",
+   "轻快",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Rhythm and blues",
+   "Happy music",
+   "Soul music",
+   "Independent music",
+   "Hip hop music",
+   "Singing"
+  ],
+  "source": "最近"
  },
  {
   "no": 64,
-  "file": "songs/064_最近_中_轻松_92bpm_1m00s.mp3",
+  "file": "songs/064_电子_纯音乐_中_轻松_92bpm_1m00s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 92,
@@ -829,11 +1847,27 @@
   "last_used": "2026-10-16",
   "loud_db": -7.0,
   "bright_hz": 800,
-  "jianying_cache": "36d267d9a2db366fab861da7ee8973bd.mp3"
+  "jianying_cache": "36d267d9a2db366fab861da7ee8973bd.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "说唱",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Hip hop music",
+   "Electronic music",
+   "Drum and bass",
+   "Drum",
+   "Sampler",
+   "Drum machine"
+  ],
+  "source": "最近"
  },
  {
   "no": 65,
-  "file": "songs/065_最近_快_轻松_144bpm_0m56s.mp3",
+  "file": "songs/065_电子_纯音乐_快_轻松_144bpm_0m56s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 144,
@@ -842,11 +1876,26 @@
   "last_used": "2026-10-16",
   "loud_db": -12.0,
   "bright_hz": 805,
-  "jianying_cache": "882b9a5632c9f6080282f3fbfc584a05.mp3"
+  "jianying_cache": "882b9a5632c9f6080282f3fbfc584a05.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Drum machine",
+   "Sampler",
+   "Hip hop music",
+   "Rhythm and blues",
+   "Drum",
+   "Electronic music"
+  ],
+  "source": "最近"
  },
  {
   "no": 66,
-  "file": "songs/066_最近_中_轻松_99bpm_2m38s.mp3",
+  "file": "songs/066_舒缓_纯音乐_中_轻松_99bpm_2m38s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 99,
@@ -855,11 +1904,26 @@
   "last_used": "2026-10-16",
   "loud_db": -13.3,
   "bright_hz": 838,
-  "jianying_cache": "c0745887e26f3ad40a8a123710f892f8.mp3"
+  "jianying_cache": "c0745887e26f3ad40a8a123710f892f8.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Piano",
+   "Keyboard (musical)",
+   "Synthesizer",
+   "Electric piano",
+   "Sampler",
+   "Drum machine"
+  ],
+  "source": "最近"
  },
  {
   "no": 67,
-  "file": "songs/067_最近_快_轻松_144bpm_1m14s.mp3",
+  "file": "songs/067_舒缓_纯音乐_快_轻松_144bpm_1m14s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 144,
@@ -868,11 +1932,27 @@
   "last_used": "2026-10-16",
   "loud_db": -11.9,
   "bright_hz": 387,
-  "jianying_cache": "066fc83ba4389d054b24f97a0384134d.mp3"
+  "jianying_cache": "066fc83ba4389d054b24f97a0384134d.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Piano",
+   "Keyboard (musical)",
+   "Electric piano",
+   "Vibraphone",
+   "Harmonic"
+  ],
+  "source": "最近"
  },
  {
   "no": 68,
-  "file": "songs/068_最近_慢_安静_83bpm_2m38s.mp3",
+  "file": "songs/068_舒缓_纯音乐_慢_安静_83bpm_2m38s.mp3",
   "feel": "安静",
   "tempo": "慢",
   "bpm": 83,
@@ -881,11 +1961,27 @@
   "last_used": "2026-10-16",
   "loud_db": -17.1,
   "bright_hz": 467,
-  "jianying_cache": "53dc7466c7917ab0a51d0afc34efde50.mp3"
+  "jianying_cache": "53dc7466c7917ab0a51d0afc34efde50.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Sad music",
+   "Piano",
+   "Tender music",
+   "Electric piano",
+   "Keyboard (musical)"
+  ],
+  "source": "最近"
  },
  {
   "no": 69,
-  "file": "songs/069_最近_快_明亮_136bpm_1m00s.mp3",
+  "file": "songs/069_摇滚_纯音乐_快_明亮_136bpm_1m00s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 136,
@@ -894,11 +1990,28 @@
   "last_used": "2026-10-16",
   "loud_db": -18.0,
   "bright_hz": 1635,
-  "jianying_cache": "1bd35e28f8fb841a3073ae512f2ed50c.mp3"
+  "jianying_cache": "1bd35e28f8fb841a3073ae512f2ed50c.mp3",
+  "category": "摇滚",
+  "categories": [
+   "摇滚",
+   "动感",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Progressive rock",
+   "Exciting music",
+   "Rock and roll",
+   "Soundtrack music",
+   "Guitar",
+   "Heavy metal"
+  ],
+  "source": "最近"
  },
  {
   "no": 70,
-  "file": "songs/070_最近_中_轻松_117bpm_2m35s.mp3",
+  "file": "songs/070_古典_纯音乐_中_轻松_117bpm_2m35s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -907,11 +2020,27 @@
   "last_used": "2026-10-16",
   "loud_db": -13.9,
   "bright_hz": 715,
-  "jianying_cache": "159a2fe94149f9a682e56b837888a4e8.mp3"
+  "jianying_cache": "159a2fe94149f9a682e56b837888a4e8.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "舒缓",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Cello",
+   "Bowed string instrument",
+   "Piano",
+   "Violin, fiddle",
+   "Double bass",
+   "Keyboard (musical)"
+  ],
+  "source": "最近"
  },
  {
   "no": 71,
-  "file": "songs/071_最近_中_轻松_103bpm_2m18s.mp3",
+  "file": "songs/071_电子_纯音乐_中_轻松_103bpm_2m18s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 103,
@@ -920,11 +2049,28 @@
   "last_used": "2026-10-16",
   "loud_db": -7.3,
   "bright_hz": 918,
-  "jianying_cache": "659eef1c88d330ad70ba0f375ea2378f.mp3"
+  "jianying_cache": "659eef1c88d330ad70ba0f375ea2378f.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "DJ",
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electronic music",
+   "Electronica",
+   "House music",
+   "Dance music",
+   "Trance music",
+   "Techno"
+  ],
+  "source": "最近"
  },
  {
   "no": 72,
-  "file": "songs/072_最近_慢_安静_76bpm_1m47s.mp3",
+  "file": "songs/072_舒缓_纯音乐_慢_安静_76bpm_1m47s.mp3",
   "feel": "安静",
   "tempo": "慢",
   "bpm": 76,
@@ -933,11 +2079,27 @@
   "last_used": "2026-10-16",
   "loud_db": -12.3,
   "bright_hz": 773,
-  "jianying_cache": "91bcd9028401ff043f3ec6ee07c2f480.mp3"
+  "jianying_cache": "91bcd9028401ff043f3ec6ee07c2f480.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Background music",
+   "Theme music",
+   "Sad music",
+   "Tender music",
+   "Soundtrack music"
+  ],
+  "source": "最近"
  },
  {
   "no": 73,
-  "file": "songs/073_最近_中_明亮_117bpm_1m36s.mp3",
+  "file": "songs/073_VLOG_纯音乐_中_明亮_117bpm_1m36s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 117,
@@ -946,11 +2108,28 @@
   "last_used": "2026-10-16",
   "loud_db": -8.2,
   "bright_hz": 1115,
-  "jianying_cache": "c15af080266717dc9be455c42c8d2591.mp3"
+  "jianying_cache": "c15af080266717dc9be455c42c8d2591.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "轻快",
+   "摇滚",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Independent music",
+   "Progressive rock",
+   "Background music",
+   "Rhythm and blues",
+   "Funk",
+   "Happy music"
+  ],
+  "source": "最近"
  },
  {
   "no": 74,
-  "file": "songs/074_最近_中_轻松_117bpm_3m34s.mp3",
+  "file": "songs/074_VLOG_纯音乐_中_轻松_117bpm_3m34s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -959,11 +2138,27 @@
   "last_used": "2026-10-16",
   "loud_db": -14.0,
   "bright_hz": 831,
-  "jianying_cache": "236606b483532707ba71c1f45e2ae972.mp3"
+  "jianying_cache": "236606b483532707ba71c1f45e2ae972.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "民谣",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Guitar",
+   "Plucked string instrument",
+   "Harmonica",
+   "Acoustic guitar",
+   "Steel guitar, slide guitar",
+   "Strum"
+  ],
+  "source": "最近"
  },
  {
   "no": 75,
-  "file": "songs/075_最近_慢_轻松_81bpm_1m58s.mp3",
+  "file": "songs/075_舒缓_纯音乐_慢_轻松_81bpm_1m58s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -972,11 +2167,28 @@
   "last_used": "2026-10-16",
   "loud_db": -10.6,
   "bright_hz": 577,
-  "jianying_cache": "816030264cbf525f60e3f40d631eadca.mp3"
+  "jianying_cache": "816030264cbf525f60e3f40d631eadca.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Background music",
+   "Sad music",
+   "Tender music",
+   "Theme music",
+   "Ambient music"
+  ],
+  "source": "最近"
  },
  {
   "no": 76,
-  "file": "songs/076_最近_快_轻松_129bpm_2m14s.mp3",
+  "file": "songs/076_舒缓_纯音乐_快_轻松_129bpm_2m14s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 129,
@@ -985,11 +2197,28 @@
   "last_used": "2026-10-16",
   "loud_db": -23.2,
   "bright_hz": 735,
-  "jianying_cache": "ba9efd69921237c0abc9cdb11fe10548.mp3"
+  "jianying_cache": "ba9efd69921237c0abc9cdb11fe10548.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "伤感",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Sad music",
+   "Background music",
+   "Tender music",
+   "Soundtrack music",
+   "Theme music"
+  ],
+  "source": "最近"
  },
  {
   "no": 77,
-  "file": "songs/077_最近_中_轻松_96bpm_2m16s.mp3",
+  "file": "songs/077_舒缓_纯音乐_中_轻松_96bpm_2m16s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 96,
@@ -998,11 +2227,28 @@
   "last_used": "2026-10-16",
   "loud_db": -15.0,
   "bright_hz": 926,
-  "jianying_cache": "28952d37b745296913b99cc6da8abef3.mp3"
+  "jianying_cache": "28952d37b745296913b99cc6da8abef3.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "电子",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Electronica",
+   "Electronic music",
+   "Background music",
+   "Throbbing",
+   "Hum"
+  ],
+  "source": "最近"
  },
  {
   "no": 78,
-  "file": "songs/078_最近_中_轻松_112bpm_2m24s.mp3",
+  "file": "songs/078_舒缓_纯音乐_中_轻松_112bpm_2m24s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 112,
@@ -1011,11 +2257,28 @@
   "last_used": "2026-10-16",
   "loud_db": -12.0,
   "bright_hz": 667,
-  "jianying_cache": "7087c6e29c92843f5fe518fbdd48ca73.mp3"
+  "jianying_cache": "7087c6e29c92843f5fe518fbdd48ca73.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "R&B",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "New-age music",
+   "Tender music",
+   "Background music",
+   "Soul music",
+   "Ambient music",
+   "Electronica"
+  ],
+  "source": "最近"
  },
  {
   "no": 79,
-  "file": "songs/079_最近_中_轻松_92bpm_3m51s.mp3",
+  "file": "songs/079_舒缓_纯音乐_中_轻松_92bpm_3m51s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 92,
@@ -1024,11 +2287,28 @@
   "last_used": "2026-10-16",
   "loud_db": -10.3,
   "bright_hz": 821,
-  "jianying_cache": "19f362a9009db1b9ee3a3ebaf444ec70.mp3"
+  "jianying_cache": "19f362a9009db1b9ee3a3ebaf444ec70.mp3",
+  "category": "舒缓",
+  "categories": [
+   "舒缓",
+   "VLOG",
+   "R&B",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Soul music",
+   "Background music",
+   "Tender music",
+   "Rhythm and blues",
+   "Piano",
+   "Electric piano"
+  ],
+  "source": "最近"
  },
  {
   "no": 80,
-  "file": "songs/080_最近_慢_轻松_81bpm_1m08s.mp3",
+  "file": "songs/080_电子_纯音乐_慢_轻松_81bpm_1m08s.mp3",
   "feel": "轻松",
   "tempo": "慢",
   "bpm": 81,
@@ -1037,11 +2317,28 @@
   "last_used": "2026-10-16",
   "loud_db": -7.8,
   "bright_hz": 1055,
-  "jianying_cache": "d8538759e87d2124cfc5c5c51a1fb225.mp3"
+  "jianying_cache": "d8538759e87d2124cfc5c5c51a1fb225.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "舒缓",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Trance music",
+   "Electronica",
+   "Electronic music",
+   "House music",
+   "Dance music",
+   "New-age music"
+  ],
+  "source": "最近"
  },
  {
   "no": 81,
-  "file": "songs/081_最近_中_轻松_108bpm_1m17s.mp3",
+  "file": "songs/081_爵士_纯音乐_中_轻松_108bpm_1m17s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 108,
@@ -1050,11 +2347,28 @@
   "last_used": "2026-10-16",
   "loud_db": -11.8,
   "bright_hz": 1176,
-  "jianying_cache": "087ba3583c834a9402e840a904c3094b.mp3"
+  "jianying_cache": "087ba3583c834a9402e840a904c3094b.mp3",
+  "category": "爵士",
+  "categories": [
+   "爵士",
+   "VLOG",
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Funk",
+   "Swing music",
+   "Soul music",
+   "Disco",
+   "Happy music",
+   "Rhythm and blues"
+  ],
+  "source": "最近"
  },
  {
   "no": 82,
-  "file": "songs/082_最近_快_明亮_185bpm_1m00s.mp3",
+  "file": "songs/082_民谣_有人声_快_明亮_185bpm_1m00s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 185,
@@ -1063,11 +2377,26 @@
   "last_used": "2026-10-15",
   "loud_db": -14.0,
   "bright_hz": 1080,
-  "jianying_cache": "55914e88ca92904bb9ca6b836155585a.mp3"
+  "jianying_cache": "55914e88ca92904bb9ca6b836155585a.mp3",
+  "category": "民谣",
+  "categories": [
+   "民谣",
+   "VLOG"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Country",
+   "Bluegrass",
+   "Guitar",
+   "Plucked string instrument",
+   "Acoustic guitar",
+   "Strum"
+  ],
+  "source": "最近"
  },
  {
   "no": 83,
-  "file": "songs/083_最近_中_明亮_117bpm_1m00s.mp3",
+  "file": "songs/083_古典_纯音乐_中_明亮_117bpm_1m00s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 117,
@@ -1076,11 +2405,28 @@
   "last_used": "2026-10-15",
   "loud_db": -13.7,
   "bright_hz": 1466,
-  "jianying_cache": "20825c547715983824065dd72f94da31.mp3"
+  "jianying_cache": "20825c547715983824065dd72f94da31.mp3",
+  "category": "古典",
+  "categories": [
+   "古典",
+   "民谣",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Violin, fiddle",
+   "Country",
+   "Guitar",
+   "Bluegrass",
+   "Bowed string instrument",
+   "Plucked string instrument"
+  ],
+  "source": "最近"
  },
  {
   "no": 84,
-  "file": "songs/084_最近_快_明亮_144bpm_4m26s.mp3",
+  "file": "songs/084_R&B_有人声_快_明亮_144bpm_4m26s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 144,
@@ -1089,11 +2435,27 @@
   "last_used": "2026-10-15",
   "loud_db": -11.5,
   "bright_hz": 1077,
-  "jianying_cache": "5be4052a72c3158fa4c284015659e074.mp3"
+  "jianying_cache": "5be4052a72c3158fa4c284015659e074.mp3",
+  "category": "R&B",
+  "categories": [
+   "R&B",
+   "轻快",
+   "VLOG"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Rhythm and blues",
+   "Soul music",
+   "Singing",
+   "Pop music",
+   "Happy music",
+   "Speech"
+  ],
+  "source": "最近"
  },
  {
   "no": 85,
-  "file": "songs/085_最近_中_明亮_112bpm_5m27s.mp3",
+  "file": "songs/085_电子_有人声_中_明亮_112bpm_5m27s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 112,
@@ -1102,11 +2464,27 @@
   "last_used": "2026-10-15",
   "loud_db": -9.3,
   "bright_hz": 1146,
-  "jianying_cache": "9c8818c16a185a4e49f1bf2d1132702c.mp3"
+  "jianying_cache": "9c8818c16a185a4e49f1bf2d1132702c.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "轻快",
+   "国风"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Music of Asia",
+   "Pop music",
+   "Singing",
+   "Electronic music",
+   "Electronic dance music",
+   "Exciting music"
+  ],
+  "source": "最近"
  },
  {
   "no": 86,
-  "file": "songs/086_最近_快_有冲劲_136bpm_3m28s.mp3",
+  "file": "songs/086_电子_纯音乐_快_有冲劲_136bpm_3m28s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 136,
@@ -1115,11 +2493,28 @@
   "last_used": "2026-10-15",
   "loud_db": -7.1,
   "bright_hz": 1888,
-  "jianying_cache": "642593e60912f1ae5bc021c328b369e2.mp3"
+  "jianying_cache": "642593e60912f1ae5bc021c328b369e2.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "DJ",
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electronic dance music",
+   "Electronic music",
+   "Speech",
+   "Techno",
+   "House music",
+   "Dubstep"
+  ],
+  "source": "最近"
  },
  {
   "no": 87,
-  "file": "songs/087_最近_快_轻松_185bpm_0m31s.mp3",
+  "file": "songs/087_轻快_有人声_快_轻松_185bpm_0m31s.mp3",
   "feel": "轻松",
   "tempo": "快",
   "bpm": 185,
@@ -1128,11 +2523,25 @@
   "last_used": "2026-10-15",
   "loud_db": -26.8,
   "bright_hz": 701,
-  "jianying_cache": "2754fd044ca19c29d9db7a9bf0d5221d.mp3"
+  "jianying_cache": "2754fd044ca19c29d9db7a9bf0d5221d.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Speech",
+   "Speech synthesizer",
+   "Narration, monologue",
+   "Hum",
+   "Whale vocalization",
+   "Sonar"
+  ],
+  "source": "最近"
  },
  {
   "no": 88,
-  "file": "songs/088_最近_慢_明亮_74bpm_3m16s.mp3",
+  "file": "songs/088_轻快_有人声_慢_明亮_74bpm_3m16s.mp3",
   "feel": "明亮",
   "tempo": "慢",
   "bpm": 74,
@@ -1141,11 +2550,27 @@
   "last_used": "2026-10-15",
   "loud_db": -10.0,
   "bright_hz": 1688,
-  "jianying_cache": "b924137fb5d8b67c74cbac581a1491c0.mp3"
+  "jianying_cache": "b924137fb5d8b67c74cbac581a1491c0.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "电子",
+   "流行"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Dance music",
+   "Pop music",
+   "Disco",
+   "Electronic music",
+   "Singing",
+   "House music"
+  ],
+  "source": "最近"
  },
  {
   "no": 89,
-  "file": "songs/089_最近_中_有冲劲_99bpm_3m45s.mp3",
+  "file": "songs/089_摇滚_有人声_中_有冲劲_99bpm_3m45s.mp3",
   "feel": "有冲劲",
   "tempo": "中",
   "bpm": 99,
@@ -1154,11 +2579,27 @@
   "last_used": "2026-10-15",
   "loud_db": -9.7,
   "bright_hz": 1553,
-  "jianying_cache": "4b295caf400a4c9501c18106639aeaf1.mp3"
+  "jianying_cache": "4b295caf400a4c9501c18106639aeaf1.mp3",
+  "category": "摇滚",
+  "categories": [
+   "摇滚",
+   "动感",
+   "流行"
+  ],
+  "vocal": true,
+  "ai_tags": [
+   "Grunge",
+   "Pop music",
+   "Punk rock",
+   "Singing",
+   "Exciting music",
+   "Independent music"
+  ],
+  "source": "最近"
  },
  {
   "no": 90,
-  "file": "songs/090_最近_快_有冲劲_136bpm_1m10s.mp3",
+  "file": "songs/090_动感_纯音乐_快_有冲劲_136bpm_1m10s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 136,
@@ -1167,11 +2608,28 @@
   "last_used": "2026-10-14",
   "loud_db": -9.6,
   "bright_hz": 1261,
-  "jianying_cache": "1fcc7627c5e2b11c72ad50266138b5d0.mp3"
+  "jianying_cache": "1fcc7627c5e2b11c72ad50266138b5d0.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "古典",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Theme music",
+   "Background music",
+   "Violin, fiddle",
+   "Video game music",
+   "Bowed string instrument",
+   "Soundtrack music"
+  ],
+  "source": "最近"
  },
  {
   "no": 91,
-  "file": "songs/091_最近_中_轻松_103bpm_2m17s.mp3",
+  "file": "songs/091_VLOG_纯音乐_中_轻松_103bpm_2m17s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 103,
@@ -1180,11 +2638,27 @@
   "last_used": "2026-10-14",
   "loud_db": -13.1,
   "bright_hz": 1331,
-  "jianying_cache": "b11751fe75f47fd49fa17d9b1c846a63.mp3"
+  "jianying_cache": "b11751fe75f47fd49fa17d9b1c846a63.mp3",
+  "category": "VLOG",
+  "categories": [
+   "VLOG",
+   "伤感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Background music",
+   "Theme music",
+   "Sad music",
+   "Video game music",
+   "Soundtrack music",
+   "Violin, fiddle"
+  ],
+  "source": "最近"
  },
  {
   "no": 92,
-  "file": "songs/092_最近_中_轻松_117bpm_2m00s.mp3",
+  "file": "songs/092_电子_纯音乐_中_轻松_117bpm_2m00s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -1193,11 +2667,26 @@
   "last_used": "2026-10-14",
   "loud_db": -7.6,
   "bright_hz": 847,
-  "jianying_cache": "d3925f532ec2594cb9d74c88a8fbd6a8.mp3"
+  "jianying_cache": "d3925f532ec2594cb9d74c88a8fbd6a8.mp3",
+  "category": "电子",
+  "categories": [
+   "电子",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electronic music",
+   "Electronica",
+   "Dance music",
+   "House music",
+   "Trance music",
+   "Echo"
+  ],
+  "source": "最近"
  },
  {
   "no": 93,
-  "file": "songs/093_最近_快_有冲劲_123bpm_2m11s.mp3",
+  "file": "songs/093_动感_纯音乐_快_有冲劲_123bpm_2m11s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 123,
@@ -1206,11 +2695,28 @@
   "last_used": "2026-10-14",
   "loud_db": -6.1,
   "bright_hz": 987,
-  "jianying_cache": "78f487c4a26892d65f42b9aa46e320b6.mp3"
+  "jianying_cache": "78f487c4a26892d65f42b9aa46e320b6.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "DJ",
+   "电子",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Dance music",
+   "House music",
+   "Disco",
+   "Electronica",
+   "Electronic music",
+   "Exciting music"
+  ],
+  "source": "最近"
  },
  {
   "no": 94,
-  "file": "songs/094_最近_中_轻松_108bpm_1m00s.mp3",
+  "file": "songs/094_流行_纯音乐_中_轻松_108bpm_1m00s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 108,
@@ -1219,11 +2725,28 @@
   "last_used": "2026-10-14",
   "loud_db": -14.5,
   "bright_hz": 1801,
-  "jianying_cache": "162c4844198b795a5293ceae3322a799.mp3"
+  "jianying_cache": "162c4844198b795a5293ceae3322a799.mp3",
+  "category": "流行",
+  "categories": [
+   "流行",
+   "爵士",
+   "轻快",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Funk",
+   "Disco",
+   "Rhythm and blues",
+   "Afrobeat",
+   "House music",
+   "Dance music"
+  ],
+  "source": "最近"
  },
  {
   "no": 95,
-  "file": "songs/095_最近_快_有冲劲_152bpm_1m00s.mp3",
+  "file": "songs/095_摇滚_纯音乐_快_有冲劲_152bpm_1m00s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 152,
@@ -1232,11 +2755,27 @@
   "last_used": "2026-10-14",
   "loud_db": -10.8,
   "bright_hz": 1781,
-  "jianying_cache": "3f88e0e8529a1c1f67f432f1cad2f5f6.mp3"
+  "jianying_cache": "3f88e0e8529a1c1f67f432f1cad2f5f6.mp3",
+  "category": "摇滚",
+  "categories": [
+   "摇滚",
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Progressive rock",
+   "Grunge",
+   "Heavy metal",
+   "Rock music",
+   "Rock and roll",
+   "Punk rock"
+  ],
+  "source": "最近"
  },
  {
   "no": 96,
-  "file": "songs/096_最近_快_明亮_185bpm_1m00s.mp3",
+  "file": "songs/096_动感_纯音乐_快_明亮_185bpm_1m00s.mp3",
   "feel": "明亮",
   "tempo": "快",
   "bpm": 185,
@@ -1245,11 +2784,26 @@
   "last_used": "2026-10-14",
   "loud_db": -16.7,
   "bright_hz": 2101,
-  "jianying_cache": "982662449ccb67d357d7fba7e7faca60.mp3"
+  "jianying_cache": "982662449ccb67d357d7fba7e7faca60.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Drum machine",
+   "Drum",
+   "Sampler",
+   "Drum kit",
+   "Electronic music",
+   "Bass drum"
+  ],
+  "source": "最近"
  },
  {
   "no": 97,
-  "file": "songs/097_最近_中_轻松_117bpm_2m45s.mp3",
+  "file": "songs/097_轻快_纯音乐_中_轻松_117bpm_2m45s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 117,
@@ -1258,11 +2812,28 @@
   "last_used": "2026-10-14",
   "loud_db": -13.3,
   "bright_hz": 1214,
-  "jianying_cache": "67e9f748e9d59286f207d0fd22ae3e4e.mp3"
+  "jianying_cache": "67e9f748e9d59286f207d0fd22ae3e4e.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "流行",
+   "R&B",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Rhythm and blues",
+   "Dance music",
+   "Pop music",
+   "Funk",
+   "Disco",
+   "House music"
+  ],
+  "source": "最近"
  },
  {
   "no": 98,
-  "file": "songs/098_最近_快_有冲劲_129bpm_3m38s.mp3",
+  "file": "songs/098_动感_纯音乐_快_有冲劲_129bpm_3m38s.mp3",
   "feel": "有冲劲",
   "tempo": "快",
   "bpm": 129,
@@ -1271,11 +2842,28 @@
   "last_used": "2026-10-14",
   "loud_db": -13.6,
   "bright_hz": 1376,
-  "jianying_cache": "ee2772cdf934c5ce6dce032a96d15bc3.mp3"
+  "jianying_cache": "ee2772cdf934c5ce6dce032a96d15bc3.mp3",
+  "category": "动感",
+  "categories": [
+   "动感",
+   "电子",
+   "卡点",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Electronic music",
+   "Dubstep",
+   "Drum and bass",
+   "Soundtrack music",
+   "Video game music",
+   "Electronic dance music"
+  ],
+  "source": "最近"
  },
  {
   "no": 99,
-  "file": "songs/099_最近_中_明亮_117bpm_3m33s.mp3",
+  "file": "songs/099_流行_纯音乐_中_明亮_117bpm_3m33s.mp3",
   "feel": "明亮",
   "tempo": "中",
   "bpm": 117,
@@ -1284,11 +2872,28 @@
   "last_used": "2026-10-14",
   "loud_db": -12.7,
   "bright_hz": 1408,
-  "jianying_cache": "a06fc7eb52036c045355559c7e78787e.mp3"
+  "jianying_cache": "a06fc7eb52036c045355559c7e78787e.mp3",
+  "category": "流行",
+  "categories": [
+   "流行",
+   "爵士",
+   "R&B",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Disco",
+   "Funk",
+   "Soul music",
+   "Exciting music",
+   "Soundtrack music",
+   "Rhythm and blues"
+  ],
+  "source": "最近"
  },
  {
   "no": 100,
-  "file": "songs/100_最近_中_轻松_103bpm_1m34s.mp3",
+  "file": "songs/100_轻快_纯音乐_中_轻松_103bpm_1m34s.mp3",
   "feel": "轻松",
   "tempo": "中",
   "bpm": 103,
@@ -1297,6 +2902,22 @@
   "last_used": "2026-10-13",
   "loud_db": -15.1,
   "bright_hz": 1334,
-  "jianying_cache": "abf6580f726cb47ccfea62335f5e1d1e.mp3"
+  "jianying_cache": "abf6580f726cb47ccfea62335f5e1d1e.mp3",
+  "category": "轻快",
+  "categories": [
+   "轻快",
+   "VLOG",
+   "纯音乐"
+  ],
+  "vocal": false,
+  "ai_tags": [
+   "Whistling",
+   "Whistle",
+   "Ringtone",
+   "Keyboard (musical)",
+   "Piano",
+   "Funk"
+  ],
+  "source": "最近"
  }
 ]
